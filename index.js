@@ -9,7 +9,7 @@ export default () => {
   if (hour > 17) {
     return "evening";
   }
-  if (hour < 0) {
+  if (hour < 0 || hour > 24) {
     return "hell";
   }
 };
