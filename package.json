@@ -1,0 +1,19 @@
+{
+  "name": "human-time-of-day",
+  "version": "1.0.0",
+  "description": "Returns the time of day in a human format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Infamoustrey/human-time-of-day.git"
+  },
+  "author": "Trey Foster <treybfoster@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Infamoustrey/human-time-of-day/issues"
+  },
+  "homepage": "https://github.com/Infamoustrey/human-time-of-day#readme"
+}
